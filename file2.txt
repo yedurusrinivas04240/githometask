@@ -1,0 +1,2 @@
+hello this is alice 
+we are in file2
